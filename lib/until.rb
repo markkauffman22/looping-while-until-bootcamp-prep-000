@@ -3,7 +3,9 @@ def using_until
   #your code here
 def using_while (levitation_force) 
   if levitation_force = 10
-    puts ""
+    puts "Wingardium Leviosa"
+    break
+  else  
   while counter < 10
     print "Levitation Force is "
     puts levitation_force
