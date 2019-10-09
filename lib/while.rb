@@ -7,7 +7,7 @@ def using_while ()
         puts "Wingardium Leviosa"
         break
       else  
-        puts "Levitation Force is"
+        puts "Wingardium Leviosa"
         levitation_force += 1
     end
   end  
