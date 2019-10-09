@@ -13,7 +13,7 @@ def using_while (levitation_force)
   end  
 end
 levitation_force = 6
-using_while (levitation_force)
+using_while(levitation_force)
 
 
 
