@@ -2,7 +2,7 @@
   #your code here
 def using_while () 
   levitation_force = 6
-    while counter <= 10
+    while levitation_force <= 10
       if levitation_force == 10
         puts "Wingardium Leviosa"
         break
