@@ -2,7 +2,8 @@ def using_until
  levitation_force = 6 
   #your code here
 def using_while (levitation_force) 
-  if 
+  if levitation_force = 10
+    puts ""
   while counter < 10
     print "Levitation Force is "
     puts levitation_force
