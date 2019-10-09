@@ -3,7 +3,7 @@ def using_until
   #your code here
 def using_while (levitation_force) 
   while counter < 10
-    puts "Levitation Force is" 
+    puts "Levitation Force is" levitation_force
     levitation_force += 1
 end
 end
