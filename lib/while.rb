@@ -5,7 +5,9 @@ def using_while (levitation_force)
     puts "Wingardium Leviosa"
     break
   else  
-    while counter < 10
+    while counter <= 10
+    
+    
       print "Levitation Force is "
       puts levitation_force
       levitation_force += 1
