@@ -1,6 +1,6 @@
  
   #your code here
-def using_while (levitation_force) 
+def using_while () 
   levitation_force = 6
     while counter <= 10
       if levitation_force == 10
